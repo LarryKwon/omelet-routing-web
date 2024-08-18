@@ -61,7 +61,7 @@ export function Login() {
             </CardFooter>
           </Card>
           <div className="mt-4 text-center text-sm text-gray-600">
-            Don't have an account?{" "}
+            Don&apos;t have an account?
             <Link href="/signup" className="font-medium text-purple-600 hover:underline" prefetch={false}>
               Sign up
             </Link>
